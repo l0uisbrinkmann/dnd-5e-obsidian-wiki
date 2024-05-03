@@ -1,4 +1,11 @@
+# Ignore all files inside /files and /notes folders
 /files/*
 /notes/*
+
+# But include the /files and /notes folders themselves
+!/files
+!/notes
+
+# Other patterns you want to ignore
 /planning
 /.obsidian
