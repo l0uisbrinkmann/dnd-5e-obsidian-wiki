@@ -1,0 +1,19 @@
+---
+tags:
+  - spell
+level: 4
+school of magic: A
+ritual: false
+time: 1 action
+range: 30 feet
+verbal: true
+somatic: false
+material: 
+concentration: true
+duration: 10 minute
+source: PHB page 216
+---
+# Aura of Life
+Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a nonhostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.
+
+**At higher levels:** 
